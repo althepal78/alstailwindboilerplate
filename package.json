@@ -16,7 +16,13 @@
     "commands": [{
       "command": "alstailwindboilerplate.createBoilerPlate",
       "title": "AlThePal78s Tailwind CSS Boiler Plate"
-    }]
+    }],
+    "images":[
+      {
+      "id" : "mylogo",
+      "path": "./images/mylogo.png"
+      }
+    ]
   },
   "scripts": {
     "lint": "eslint .",
@@ -34,4 +40,6 @@
     "typescript": "^4.9.5",
     "@vscode/test-electron": "^2.3.0"
   }
+
+  
 }
