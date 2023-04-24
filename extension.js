@@ -70,7 +70,8 @@ function activate(context) {
 	node_modules 
 	`;
 
-  const jsFile =`
+  const jsFile =
+  `
   // JavaScript Goes here
   `
   let disposable = vscode.commands.registerCommand(

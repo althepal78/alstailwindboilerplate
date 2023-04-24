@@ -1,15 +1,13 @@
 {
   "name": "alstailwindboilerplate",
+  "icon": "images/mylogo.jpg",
   "publisher": "althepal78",
   "displayName": "Al's Tailwind Boilerplate",
   "description": "A simple boiler plate for setting up tailwind",
   "version": "1.0.4",
   "engines": {
     "vscode": "^1.77.0"
-  },
-
-"icon": "images/mylogo.jpg",
-
+  },  
   "categories": [
     "Other"
   ],
@@ -20,12 +18,6 @@
       {
         "command": "alstailwindboilerplate.createBoilerPlate",
         "title": "AlThePal78s Tailwind CSS Boiler Plate"
-      }
-    ],
-    "images": [
-      {
-        "id": "mylogo",
-        "path": "./images/mylogo.png"
       }
     ]
   },
