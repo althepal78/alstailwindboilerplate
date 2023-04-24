@@ -9,6 +9,7 @@ function activate(context) {
   console.log(
     'Congratulations, your extension "alstailwindboilerplate" is now active!'
   );
+ 
   const htmlContent = `
 	<!DOCTYPE html>
 	<html lang="en">

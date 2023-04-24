@@ -3,10 +3,13 @@
   "publisher": "althepal78",
   "displayName": "Al's Tailwind Boilerplate",
   "description": "A simple boiler plate for setting up tailwind",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.77.0"
   },
+
+"icon": "images/mylogo.jpg",
+
   "categories": [
     "Other"
   ],
